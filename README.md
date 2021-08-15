@@ -9,6 +9,6 @@
 ![Titanium2099's GitHub stats](https://github-readme-stats.vercel.app/api?username=Titanium2099&show_icons=true)
  <!--![Titanium2099's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Titanium2099&layout=compact)-->
 # <div align="center">Check Out</div>
-  
+  <img src="https://github.com/Titanium2099/Titanium2099/blob/main/Titanium.gif" width="100"/>
 </div>
 
