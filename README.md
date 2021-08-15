@@ -1,7 +1,9 @@
 # <div align="center">Titanium2099</div>
 <div align=center>
   
-![--Explosion's GitHub followers](https://img.shields.io/github/followers/Titanium2099?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff) 
+![--Titanium2099's GitHub followers](https://img.shields.io/github/followers/Titanium2099?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff) 
 ![GitHub visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Titanium2099.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github)
-
+  <br>
+![Titanium2099's GitHub stats](https://github-readme-stats.vercel.app/api?username=Titanium2099)
 </div>
+
