@@ -10,5 +10,8 @@
  <!--![Titanium2099's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Titanium2099&layout=compact)-->
 # <div align="center">Check Out</div>
   [Xrcade](https://www.xrcade.xyz?ref=progit)
+  <br>
+  [Scratch](https://www.scratch.mit.edu/users/Titanium01)
+  
 </div>
 
