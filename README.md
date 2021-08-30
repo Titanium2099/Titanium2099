@@ -5,7 +5,7 @@
 
 ![--Titanium2099's GitHub followers](https://img.shields.io/github/followers/Titanium2099?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff) 
 ![GitHub visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Titanium2099.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github)
-  <br>Wassup, Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
+  <br>Wassup, Welcome to my profile! <img src="https://raw.githubusercontent.com/Titanium2099/Titanium2099/main/wave.gif" width="15px">
   # My Stats
 ![Titanium2099's GitHub stats](https://github-readme-stats.vercel.app/api?username=Titanium2099&show_icons=true)<br>
 ![Titanium2099's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Titanium2099&layout=compact)
