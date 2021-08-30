@@ -10,6 +10,6 @@
 ![Titanium2099's GitHub stats](https://github-readme-stats.vercel.app/api?username=Titanium2099&show_icons=true)<br>
 ![Titanium2099's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Titanium2099&layout=compact)
   # About Me
-  Hey! I am a graphic/game designer that loves coding Javascript, playing on my PS4, and hanging out with friends. I am currently working on a bunch of helpful Javascript plugins, and working on [<img src="https://raw.githubusercontent.com/Titanium2099/Titanium2099/main/alt_normal.png" width="15px">Xrcade](https://www.xrcade.xyz?ref=progit).  
+  Hey! I am a graphic/game designer that loves coding Javascript, playing on my PS4, and hanging out with friends. I am currently working on a bunch of helpful Javascript plugins, and working on [<img src="https://raw.githubusercontent.com/Titanium2099/Titanium2099/main/alt_normal.png" width="11px">Xrcade](https://www.xrcade.xyz?ref=progit).  
 </div>
 
