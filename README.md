@@ -10,7 +10,7 @@
 ![Titanium2099's GitHub stats](https://github-readme-stats.vercel.app/api?username=Titanium2099&show_icons=true)<br>
 ![Titanium2099's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Titanium2099&layout=compact)
   # About Me
-  Hey! I am a ♂ graphic/game designer that loves coding Javascript, playing on my PS4, and hanging out with friends.
+  Hey! I am a graphic/game designer that loves coding Javascript, playing on my PS4, and hanging out with friends.
 # <div align="center">Check Out</div>
   [Xrcade](https://www.xrcade.xyz?ref=progit)
   <br>
