@@ -5,7 +5,9 @@
 
 ![--Titanium2099's GitHub followers](https://img.shields.io/github/followers/Titanium2099?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff) 
 ![GitHub visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Titanium2099.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github)
-  <br>Wassup, Welcome to my profile! <img src="https://raw.githubusercontent.com/Titanium2099/Titanium2099/main/wave.gif" width="15px"> <br>
+
+<br><img src="https://raw.githubusercontent.com/Titanium2099/Titanium2099/main/wave.gif" width="45px">
+  <br>Welcome to my profile! <br>
   I am a full stack web developer in High School, I've been coding for about 6 years now. I am currently working on **[<img src="https://raw.githubusercontent.com/Titanium2099/Titanium2099/main/36x36.png" width="15px">CodeTorch](https://www.github.com/CodeTorchNET)** which is an alternative for Scratch (You should totally check it out). I also own [<img src="https://raw.githubusercontent.com/Titanium2099/Titanium2099/main/alt_normal.png" width="11px">Xrcade](https://www.xrcade.xyz?ref=progit) which is an Advanced Unblocked Game Site.  I used to also be known as [<img src="https://github.com/Titanium2099/Titanium2099/blob/main/45bb6.png?raw=true" width="14px">Titanium01](https://scratch.mit.edu/users/Titanium01/) on Scratch until I was perm banned.
   
   
@@ -16,4 +18,6 @@
   ![Titanium2099's GitHub stats](https://github-readme-stats.vercel.app/api?username=Titanium2099&show_icons=true)
 ![Titanium2099's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Titanium2099&layout=compact)
 
-You should check out [<img src="https://raw.githubusercontent.com/Titanium2099/Titanium2099/main/36x36.png" width="15px">CodeTorch](https://www.github.com/CodeTorchNET)
+<br>
+<br>
+You should check out [<img src="https://raw.githubusercontent.com/Titanium2099/Titanium2099/main/36x36.png" width="15px">CodeTorch](https://www.github.com/CodeTorchNET) or [<img src="https://raw.githubusercontent.com/Titanium2099/Titanium2099/main/alt_normal.png" width="11px">Xrcade](https://www.xrcade.xyz?ref=progit) (or both..)
