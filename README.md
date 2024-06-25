@@ -30,4 +30,4 @@
 <br>
 <hr>
 
-You should check out [<img src="https://raw.githubusercontent.com/Titanium2099/Titanium2099/main/36x36.png" width="15px">CodeTorch](https://www.github.com/CodeTorchNET) or [<img src="https://raw.githubusercontent.com/Titanium2099/Titanium2099/main/alt_normal.png" width="11px">Xrcade](https://www.xrcade.xyz?ref=progit) (or both..)
+You should check out [<img src="https://raw.githubusercontent.com/Titanium2099/Titanium2099/main/36x36.png" width="15px">CodeTorch](https://codetorch.net?ref=BTitGHR) or [<img src="https://raw.githubusercontent.com/Titanium2099/Titanium2099/main/alt_normal.png" width="11px">Xrcade](https://www.xrcade.xyz?ref=progit) (or both..)
